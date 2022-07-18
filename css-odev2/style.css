@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.search{
+    width: 90%;
+    margin: auto;
+    background-color: #eeeeee;
+}
+
+.bir {
+     
+    background-color: #7ee5da;
+    font-size: 16px;
+}
+
+.iki {
+    background-color: #70ccc2;
+    font-size: 13px;
+    width: 169%;
+}
+
+.uc {
+    background-color: #62b3aa;
+    font-size: 13px;
+    width: 311%;
+}
+
+logo {    
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+}
+
+.content {
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+bottom div {
+    font-size: 16px;
+    width: 281%;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
