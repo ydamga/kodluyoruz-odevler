@@ -43,22 +43,28 @@ function checkDate(i) {
             return gun;
             break;
         case 2:
-            
+            gun = "Salı";
+            return gun;
             break;    
         case 3:
- 
+            gun = "Çarşamba";
+            return gun;
             break;
         case 4:
-     
+            gun = "Perşembe";
+            return gun;
             break;
         case 5:
- 
+            gun = "Cuma";
+            return gun;
             break;
         case 6:
-         
+            gun = "Cumartesi";
+            return gun;
             break;
         case 7:
-         
+            gun = "Pazar";
+            return gun;
             break;     
         default:
             break;
